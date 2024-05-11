@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Coder-BM
+- 👋 Hi, I’m Blaise
 - 🌱 An HR by profession but currently learning Full Stack Development.
 
 <!---
